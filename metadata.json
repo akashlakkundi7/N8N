@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Post Creator",
+  "description": "A minimal, user-friendly interface to create social media posts by sending URLs to an n8n webhook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
